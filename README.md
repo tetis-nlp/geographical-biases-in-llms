@@ -1,6 +1,6 @@
 # Geographical Biases in Large Language Models (LLMs)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/tetis-nlp/geographical-biases-in-llms/blob/master/tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tetis-nlp/geographical-biases-in-llms/blob/master/tutorial.ipynb)
 
 This tutorial aims to identify geographical biases propagated by LLMs. For this purpose, 4 indicators are proposed.
 

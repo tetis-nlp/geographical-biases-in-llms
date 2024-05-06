@@ -25,6 +25,12 @@ This tutorial aims to identify geographical biases propagated by LLMs. For this 
 | Maguelonne Teisseire |
 | Mathieu Roche        |
 
+**Acknowledgement**:
+
+This study was partially funded by EU grant 874850 MOOD and is catalogued as MOOD099. The contents of
+this publication are the sole responsibility of the authors and do not necessarily reflect the views of the European
+Commission
+
 <a href="https://mood-h2020.eu/"><img src="https://mood-h2020.eu/wp-content/uploads/2020/10/logo_Mood_texte-dessous_CMJN_vecto-300x136.jpg" alt="mood"/></a> 
 
 

@@ -1,13 +1,11 @@
 # Geographical Biases in Large Language Models (LLMs)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tetis-nlp/geographical-biases-in-llms/blob/master/tutorial.ipynb)
-
 This tutorial aims to identify geographical biases propagated by LLMs. For this purpose, 4 indicators are proposed.
 
-1. Spatial disparities in geographical knowledge
-2. Spatial information coverage in training datasets
-3. Correlation between geographic distance and semantic distance
-4. Anomaly between geographical distance and semantic distance
+1. Spatial disparities in geographical knowledge. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tetis-nlp/geographical-biases-in-llms/blob/master/.src/0000.ipynb)
+2. Spatial information coverage in training datasets. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tetis-nlp/geographical-biases-in-llms/blob/master/.src/0001.ipynb)
+3. Correlation between geographic distance and semantic distance. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tetis-nlp/geographical-biases-in-llms/blob/master/.src/0002.ipynb)
+4. Anomaly between geographical distance and semantic distance. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tetis-nlp/geographical-biases-in-llms/blob/master/.src/0003.ipynb)
 
 <p align="center">
   <img src="readme.ressources/World_aggregated_bert.png" alt="Semantic Distances" width="400"/><br/>
@@ -20,11 +18,15 @@ This tutorial aims to identify geographical biases propagated by LLMs. For this 
 
 <img align="left" src="https://www.umr-tetis.fr/images/logo-header-tetis.png">
 
+
 |           |
 |----------------------|
 | Rémy Decoupes        |
 | Maguelonne Teisseire |
 | Mathieu Roche        |
+
+<a href="https://mood-h2020.eu/"><img src="https://mood-h2020.eu/wp-content/uploads/2020/10/logo_Mood_texte-dessous_CMJN_vecto-300x136.jpg" alt="mood"/></a> 
+
 
 
 |   |   |   |   |

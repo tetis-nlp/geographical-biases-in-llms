@@ -34,14 +34,19 @@ Commission
 <a href="https://mood-h2020.eu/"><img src="https://mood-h2020.eu/wp-content/uploads/2020/10/logo_Mood_texte-dessous_CMJN_vecto-300x136.jpg" alt="mood"/></a> 
 
 
-
-|   |   |   |   |
-|---|---|---|---|
-| <a href="https://www.agroparistech.fr/"><img src="https://ecampus.paris-saclay.fr/pluginfile.php/422294/coursecat/description/logo_sansbaseline.png" alt="AgroParisTech"/></a> | <a href="https://www.cirad.fr/"><img src="https://en.agreenium.fr/sites/default/files/styles/large/public/CIRAD.jpg" alt="CIRAD" /></a> | <a href="https://www.cnrs.fr"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_Centre_national_de_la_recherche_scientifique_%282023-%29.svg/langfr-130px-Logo_Centre_national_de_la_recherche_scientifique_%282023-%29.svg.png" alt="CNRS"/></a> | <a href="https://www.inrae.fr"><img src="https://www.inrae.fr/themes/custom/inrae_socle/logo.svg" alt="INRAE" /></a> |
-
+---
 ## Citing this work
 
 If you find this work helpful or refer to it in your research, please consider citing:
 
 + *Evaluation of Geographical Distortions in Language Models: A Crucial Step Towards Equitable Representations, Rémy Decoupes, Roberto Interdonato, Mathieu Roche, Maguelonne Teisseire, Sarah Valentin*. 
 [![arXiv](https://img.shields.io/badge/arXiv-2404.17401-b31b1b.svg)](https://arxiv.org/abs/2404.17401)
+
+## This tutorial has been presented in
+
+- **PAKDD'24**: See [slides](slides/PAKDD2024_Tutorial_LM_Spatial.pdf)
+
+
+|   |   |   |   |
+|---|---|---|---|
+| <a href="https://www.agroparistech.fr/"><img src="https://ecampus.paris-saclay.fr/pluginfile.php/422294/coursecat/description/logo_sansbaseline.png" alt="AgroParisTech"/></a> | <a href="https://www.cirad.fr/"><img src="https://en.agreenium.fr/sites/default/files/styles/large/public/CIRAD.jpg" alt="CIRAD" /></a> | <a href="https://www.cnrs.fr"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_Centre_national_de_la_recherche_scientifique_%282023-%29.svg/langfr-130px-Logo_Centre_national_de_la_recherche_scientifique_%282023-%29.svg.png" alt="CNRS"/></a> | <a href="https://www.inrae.fr"><img src="https://www.inrae.fr/themes/custom/inrae_socle/logo.svg" alt="INRAE" /></a> |

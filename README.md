@@ -9,7 +9,12 @@ This tutorial aims to identify geographical biases propagated by LLMs. For this 
 
 <p align="center">
   <img src="readme.ressources/World_aggregated_bert.png" alt="Semantic Distances" width="400"/><br/>
-  <strong>Fig. 1:</strong> Average semantic distances between the three most populous cities in a country compared to other cities worldwide.
+  <strong>Fig. 1:</strong> Average semantic distances (using BERT) between the three most populous cities in a country compared to other cities worldwide.
+</p>
+
+<p align="center">
+  <img src="readme.ressources/percentage_correct_country_predictions_for_100kinhab_cities.png" alt="Semantic Distances" width="400"/><br/>
+  <strong>Fig. 2:</strong> Percentage of correct country predictions given cities name with more than 100K inhabitants by spatial aggregation in 5° by 5° pixels?
 </p>
 
 

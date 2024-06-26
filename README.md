@@ -49,7 +49,7 @@ If you find this work helpful or refer to it in your research, please consider c
 
 ## This tutorial has been presented in
 
-- **PAKDD'24**: See [slides](slides/PAKDD2024_Tutorial_LM_Spatial.pdf)
+- **PAKDD'24**: See [slides](slides/PAKDD2024_Tutorial_LM_Spatial.pdf). [![SWH](https://archive.softwareheritage.org/badge/swh:1:rev:7a5b8799435c1bc858fde76347347a7ef44f0053/)](https://archive.softwareheritage.org/swh:1:rev:7a5b8799435c1bc858fde76347347a7ef44f0053;origin=https://github.com/tetis-nlp/geographical-biases-in-llms;visit=swh:1:snp:6dad1d279a108a591059f4a006d379285bb2a575)
 
 
 |   |   |   |   |

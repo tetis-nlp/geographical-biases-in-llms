@@ -50,7 +50,7 @@ If you find this work helpful or refer to it in your research, please consider c
 ## This tutorial has been presented in
 
 - **PAKDD'24**: See [slides](slides/PAKDD2024_Tutorial_LM_Spatial.pdf). [![SWH](https://archive.softwareheritage.org/badge/swh:1:rev:7a5b8799435c1bc858fde76347347a7ef44f0053/)](https://archive.softwareheritage.org/swh:1:rev:7a5b8799435c1bc858fde76347347a7ef44f0053;origin=https://github.com/tetis-nlp/geographical-biases-in-llms;visit=swh:1:snp:6dad1d279a108a591059f4a006d379285bb2a575)
-- **PFIA'24** (in French): See [slides](slides/PFIA2024_Tutorial_LM_Spatial.pdf)
+- **PFIA'24** (in French): See [slides](slides/PFIA2024_Tutorial_LM_Spatial.pdf). [![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:a0b587d98460e8824b1b1d0fa50008b1cce03079/)](https://archive.softwareheritage.org/swh:1:dir:a0b587d98460e8824b1b1d0fa50008b1cce03079;origin=https://github.com/tetis-nlp/geographical-biases-in-llms;visit=swh:1:snp:1a8ccb110ac044ac43cfc315661dc1bc1df84a0b;anchor=swh:1:rev:6e07c682b2540a384400b593352604c9b75ca073)
 
 
 |   |   |   |   |

@@ -15,7 +15,7 @@ To run all the scripts, it is necessary to download two geodatasets and place th
 ## 2. Configure our runtime environment
 ### Python environment
 ```{bash}
-conda env crate -f environment.yml
+conda env create -f environment.yml
 ```
 
 ### API keys

@@ -47,6 +47,11 @@ If you find this work helpful or refer to it in your research, please consider c
 + *Evaluation of Geographical Distortions in Language Models: A Crucial Step Towards Equitable Representations, Rémy Decoupes, Roberto Interdonato, Mathieu Roche, Maguelonne Teisseire, Sarah Valentin*. 
 [![arXiv](https://img.shields.io/badge/arXiv-2404.17401-b31b1b.svg)](https://arxiv.org/abs/2404.17401)
 
+## Reproducing the article
+
+Figures and Tables could be reproduce by following these [instructions](paper-reproducibility/readme.md).
+Note that you'll need a GPU with at least 24 GB RAM.
+
 ## This tutorial has been presented in
 
 - **PAKDD'24**: See [slides](slides/PAKDD2024_Tutorial_LM_Spatial.pdf). [![SWH](https://archive.softwareheritage.org/badge/swh:1:rev:7a5b8799435c1bc858fde76347347a7ef44f0053/)](https://archive.softwareheritage.org/swh:1:rev:7a5b8799435c1bc858fde76347347a7ef44f0053;origin=https://github.com/tetis-nlp/geographical-biases-in-llms;visit=swh:1:snp:6dad1d279a108a591059f4a006d379285bb2a575)

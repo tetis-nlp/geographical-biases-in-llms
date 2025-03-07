@@ -1,5 +1,7 @@
 # Geographical Biases in Large Language Models (LLMs)
 
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/tetis-nlp/geographical-biases-in-llms/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/tetis-nlp/geographical-biases-in-llms)
+
 This tutorial aims to identify geographical biases propagated by LLMs. For this purpose, 4 indicators are proposed.
 
 1. Spatial disparities in geographical knowledge. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tetis-nlp/geographical-biases-in-llms/blob/master/.src/0000.ipynb)

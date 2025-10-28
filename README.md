@@ -46,8 +46,8 @@ Commission
 
 If you find this work helpful or refer to it in your research, please consider citing:
 
-+ *Evaluation of Geographical Distortions in Language Models: A Crucial Step Towards Equitable Representations, Rémy Decoupes, Roberto Interdonato, Mathieu Roche, Maguelonne Teisseire, Sarah Valentin*. 
-[![arXiv](https://img.shields.io/badge/arXiv-2404.17401-b31b1b.svg)](https://arxiv.org/abs/2404.17401)
++ *Evaluation of Geographical Distortions in Language Models, Rémy Decoupes, Roberto Interdonato, Mathieu Roche, Maguelonne Teisseire, Sarah Valentin*. 
+[[Published in Machine Learning (Springer, 2025)](https://doi.org/10.1007/s10994-025-06916-9)]
 
 ## Reproducing the article
 
